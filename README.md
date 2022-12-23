@@ -6,7 +6,7 @@ git clone https://github.com/lu-perez/Auth-express-session-mongo-connect.git
 ```
 
 2. Install dependencies
-```
+```console
 npm install
 ```
 
